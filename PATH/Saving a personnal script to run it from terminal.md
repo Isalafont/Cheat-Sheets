@@ -40,4 +40,6 @@ Open your `.zshrc`instead of `.bash_profile`
 3.  Save the `.bashrc` file.
 4.  Restart your terminal.
 
+---
+
 
