@@ -10,18 +10,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "PATH/Saving a personnal script to run it from terminal.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "53f28f17db98a964",
+        "id": "16ac05795ac3049a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/Git Cheatsheet.md",
+            "file": "PATH/Saving a personnal script to run it from terminal.md",
             "mode": "preview"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "PATH/Saving a personnal script to run it from terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "PATH/Untitled.md",
+    "Untitled.md",
     "README.md",
     "Git/Git Cheatsheet.md"
   ]
