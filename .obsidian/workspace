@@ -4,30 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "16833dc8dfcdca9b",
+        "id": "16ac05795ac3049a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/Useful Command shell.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "9f071dec9ad16831",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Git/Useful Command shell.md",
+            "file": "Git/Git Cheatsheet.md",
             "mode": "preview"
           }
         }
       },
       {
-        "id": "16ac05795ac3049a",
+        "id": "387556c435c24490",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -70,12 +58,34 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "973f812c49f11cc5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "5b128f9bb84beb49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16833dc8dfcdca9b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 221
   },
   "right": {
     "id": "1f2e826b19b879fa",
@@ -91,12 +101,33 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Useful Command shell.md",
+                "file": "Git/Git Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0e44e5c1cae5e73",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "093db5375db2d3de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -107,12 +138,13 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "16ac05795ac3049a",
   "lastOpenFiles": [
+    "Git/Git Cheatsheet.md",
     "Git/Useful Command shell.md",
-    "Untitled.md",
     "PATH/Saving a personnal script to run it from terminal.md",
+    "Untitled.md",
     "PATH/Untitled.md",
-    "README.md",
-    "Git/Git Cheatsheet.md"
+    "README.md"
   ]
 }
