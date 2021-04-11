@@ -1,5 +1,6 @@
 Here's what to do when you want to launch a server but you can't cause the error message tells you that a server is already running even if not. 
 That's probably due to a PID who did not shut down properly. 
+#shell
 ## Kill a running server
 
 ==This example use TCP port 3000 but the process will be the same for any tcp port.==
