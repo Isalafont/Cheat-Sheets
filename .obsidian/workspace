@@ -4,15 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "16ac05795ac3049a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Git/Git Cheatsheet.md",
-            "mode": "preview"
+        "id": "047aa4908298ad79",
+        "type": "split",
+        "children": [
+          {
+            "id": "75e0e6647b470a67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PATH/Saving a personnal script to run it from terminal.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "16ac05795ac3049a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git Cheatsheet.md",
+                "mode": "preview"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "0de2ef5a74db0a8a",
@@ -20,7 +38,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/Git Cheatsheet.md",
+            "file": "Shell/Killing a running server.md",
             "mode": "preview"
           }
         }
@@ -85,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221
+    "width": 172
   },
   "right": {
     "id": "1f2e826b19b879fa",
@@ -101,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git Cheatsheet.md",
+                "file": "Shell/Killing a running server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,13 +156,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "16ac05795ac3049a",
+  "active": "0de2ef5a74db0a8a",
   "lastOpenFiles": [
-    "Git/Git Cheatsheet.md",
     "Git/Useful Command shell.md",
+    "README.md",
+    "Git/Killing Server.md",
     "PATH/Saving a personnal script to run it from terminal.md",
+    "Git/Untitled.md",
     "Untitled.md",
-    "PATH/Untitled.md",
-    "README.md"
+    "Git/Git Cheatsheet.md",
+    "PATH/Untitled.md"
   ]
 }
