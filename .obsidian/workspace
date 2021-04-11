@@ -4,47 +4,80 @@
     "type": "split",
     "children": [
       {
-        "id": "2034a5f17e807a1c",
+        "id": "d9dab84c59598cc2",
         "type": "split",
         "children": [
           {
-            "id": "d9dab84c59598cc2",
+            "id": "a5fec6b12ba01c32",
             "type": "split",
+            "dimension": 76.66666666666667,
             "children": [
               {
                 "id": "861e80cdd611e6d1",
                 "type": "leaf",
-                "dimension": 68.18181818181817,
+                "dimension": 75.49668874172185,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Git/Git Cheatsheet.md",
+                    "file": "README.md",
                     "mode": "preview"
                   }
-                }
+                },
+                "group": "7693929b7efd0fc8"
               },
+              {
+                "id": "d32be921ede83964",
+                "type": "leaf",
+                "dimension": 24.503311258278146,
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "README.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byCreatedTimeReverse",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                },
+                "group": "7693929b7efd0fc8"
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "e3bca87fe9910927",
+            "type": "split",
+            "dimension": 23.33333333333333,
+            "children": [
               {
                 "id": "da950b87eb590c20",
                 "type": "leaf",
-                "dimension": 31.818181818181817,
+                "pinned": true,
                 "state": {
                   "type": "graph",
-                  "state": {}
+                  "state": {},
+                  "pinned": true
                 }
+              },
+              {
+                "id": "6d4bd641f94b769e",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "README.md"
+                  }
+                },
+                "group": "7693929b7efd0fc8"
               }
             ],
-            "direction": "vertical"
-          },
-          {
-            "id": "16ac05795ac3049a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
+            "direction": "horizontal"
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -122,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git Cheatsheet.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git Cheatsheet.md"
+                "file": "README.md"
               }
             }
           },
@@ -169,17 +202,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "861e80cdd611e6d1",
+  "active": "d32be921ede83964",
   "lastOpenFiles": [
-    "Git/Git Cheatsheet.md",
     "README.md",
+    "Git/Git Cheatsheet.md",
     "Terminal/01_Index.md",
+    "Terminal/Saving a personnal script to run it from terminal.md",
+    "Terminal/Killing a running server.md",
+    "Terminal/Finder Hiding Files.md",
     "Untitled.md",
     "2021-04-11.md",
-    "Terminal/Killing a running server.md",
     "Terminal/01_Note Index.md",
-    "Terminal/Note Index.md",
-    "Terminal/Saving a personnal script to run it from terminal.md",
-    "Terminal/Untitled.md"
+    "Terminal/Note Index.md"
   ]
 }

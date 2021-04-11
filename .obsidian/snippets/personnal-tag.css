@@ -3,7 +3,7 @@
   border: none;
   color: white;
   font-size: 11px;
-  padding: 1px 8px;
+  padding: 2px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -19,11 +19,23 @@ background-color: var(--text-accent-hover);
   background-color: #4d3ca6;
 }
 .tag[href^="#important"] {
-  background-color: red;
+  background-color: #f03738;
 }
 .tag[href^="#complete"] {
-  background-color: green;
+  background-color: #73BFB8;
 }
 .tag[href^="#inprogress"] {
-  background-color: orange;
+  background-color: #DE6449;
+}
+.tag[href^="#todo"] {
+  background-color: #fec601;
+}
+.tag[href^="#shell"] {
+  background-color: #029cde;
+}
+.tag[href^="#path"] {
+  background-color: #80cef0;
+}
+.tag[href^="#ruby"] {
+  background-color: #b4292a;
 }
