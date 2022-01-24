@@ -1,7 +1,7 @@
 #shell 
 #### To show hidding files in the Finder run the following command in terminal 
 
-```shell
+```bash
 $ defaults write com.apple.Finder AppleShowAllFiles true 
 $ [Enter]
 $ killall Finder
@@ -11,17 +11,17 @@ To hidde this .files put `false` instead of true
 
 #### To show .gitignore File from Terminal
 ==Retrieve File path==
-```shell
+```bash
 $ pwd
 ```
 
 ==Unhidde File==
-```shell
+```bash
 $ ls -al <path/to/dir>
 ```
 
 Output
-```shell
+```bash
 total 24
 drwxr-xr-x 9 IsabelleL staff 288 Jan 24 12:52 .
 drwxr-xr-x 37 IsabelleL staff 1184 Dec 15 16:38 ..
@@ -35,11 +35,11 @@ drwxr-xr-x 7 IsabelleL staff 224 Jan 24 17:33 Terminal
 ```
 
 ==Open .gitignore file in terminal==
-```shell
+```bash
 $ nano .gitignore
 ```
 
 Or in text editor
-```shell
+```bash
 $ open .gitignore
 ```

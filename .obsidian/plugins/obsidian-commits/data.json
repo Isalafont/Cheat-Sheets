@@ -27,7 +27,7 @@
     "Terminal/01_Index.md": {
       "size": 0,
       "tags": 2,
-      "links": 3
+      "links": 4
     },
     "Terminal/Finder Hiding Files.md": {
       "size": 0,
@@ -36,7 +36,7 @@
     },
     "Terminal/Remove a directory to gitignore.md": {
       "size": 0,
-      "tags": 0,
+      "tags": 1,
       "links": 0
     }
   },
@@ -44,7 +44,7 @@
     "/": {
       "Refactor": 20,
       "Create": 10,
-      "Link": 7,
+      "Link": 9,
       "Expand": 0
     }
   },
@@ -68,7 +68,7 @@
       "15": 0,
       "16": 0,
       "17": 10,
-      "18": 23,
+      "18": 25,
       "19": 4,
       "20": 0,
       "21": 0,
@@ -78,7 +78,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 2,
+      "Mon": 4,
       "Tue": 0,
       "Wed": 0,
       "Thu": 0,
@@ -121,7 +121,8 @@
         "<a class=\"internal-link\" href=\"Terminal/Killing a running server.md\"> Killing a running server </a>",
         "<a class=\"internal-link\" href=\"Terminal/Saving a personnal script to run it from terminal.md\"> Saving a personnal script to run it from terminal </a>",
         "<a class=\"internal-link\" href=\"Terminal/Note Index.md\"> Note Index </a>",
-        "<a class=\"internal-link\" href=\"Terminal/Finder Hiding Files.md\"> Finder Hiding Files </a>"
+        "<a class=\"internal-link\" href=\"Terminal/Finder Hiding Files.md\"> Finder Hiding Files </a>",
+        "<a class=\"internal-link\" href=\"Terminal/Remove a directory to gitignore.md\"> Remove a directory to gitignore </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -136,6 +137,7 @@
       "Linked": [
         "<a class=\"internal-link\" href=\"Terminal/Note Index.md\"> Note Index </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
+        "<a class=\"internal-link\" href=\"Terminal/01_Index.md\"> 01_Index </a>",
         "<a class=\"internal-link\" href=\"Terminal/01_Index.md\"> 01_Index </a>"
       ],
       "Removed Tags from": [],
