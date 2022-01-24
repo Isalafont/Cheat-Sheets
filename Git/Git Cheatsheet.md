@@ -212,6 +212,29 @@ heroku
 origin
 ```
 
+```bash
+$ git remote -v
+
+origin git@github.com:Isalafont/Cheat-Sheets.git (fetch)
+origin git@github.com:Isalafont/Cheat-Sheets.git (push)
+
+```
+
+#### Set a new remote
+```bash
+$ git remote add <my_awesome_remote_repo> git@github.com:Isalafont/Cheat-Sheets.git
+```
+
+#### Changing Remote name
+```bash
+$ git remote rename <old_name> <new_name>
+```
+
+#### Remove Remote name
+```bash
+$ git remote remove <name>
+```
+
 ---
 
 ### Delete a git repository 

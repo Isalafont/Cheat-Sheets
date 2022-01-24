@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Terminal/Remove a directory to gitignore.md",
+                    "file": "Git/Git Cheatsheet.md",
                     "mode": "preview"
                   }
                 },
@@ -32,7 +32,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Terminal/Remove a directory to gitignore.md",
+                    "file": "Git/Git Cheatsheet.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "byCreatedTimeReverse",
@@ -68,7 +68,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Terminal/Remove a directory to gitignore.md"
+                    "file": "Git/Git Cheatsheet.md"
                   }
                 },
                 "group": "7693929b7efd0fc8"
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal/Remove a directory to gitignore.md",
+                "file": "Git/Git Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminal/Remove a directory to gitignore.md"
+                "file": "Git/Git Cheatsheet.md"
               }
             }
           },
@@ -204,12 +204,12 @@
   },
   "active": "861e80cdd611e6d1",
   "lastOpenFiles": [
+    "Git/Git Cheatsheet.md",
     "Terminal/Remove a directory to gitignore.md",
     "Terminal/Finder Hiding Files.md",
     "Terminal/Saving a personnal script to run it from terminal.md",
     "Terminal/Killing a running server.md",
     "README.md",
-    "Git/Git Cheatsheet.md",
     "Terminal/01_Index.md",
     "Untitled.md",
     "2021-04-11.md",
