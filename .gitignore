@@ -1,2 +1,4 @@
-*.obsidian/
-
+.obsidian/workspace
+.obsidian/cache
+.trash/
+.DS_Store

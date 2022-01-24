@@ -187,7 +187,11 @@ $ gco -b <workin partner branch> origin<working partner branch>
 ```shell
 $ gco -b kjr/fix-recsys origin/kjr/fix-recsys
 ```
-
+or 
+```shell
+$ git fetch origin
+$ gco <name of the branch>
+```
 ### Git merge develop branch into feature branch
 
 ```bash

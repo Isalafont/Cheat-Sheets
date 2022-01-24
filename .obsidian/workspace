@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "README.md",
+                    "file": "Terminal/Finder Hiding Files.md",
                     "mode": "preview"
                   }
                 },
@@ -32,7 +32,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "README.md",
+                    "file": "Terminal/Finder Hiding Files.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "byCreatedTimeReverse",
@@ -68,7 +68,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "README.md"
+                    "file": "Terminal/Finder Hiding Files.md"
                   }
                 },
                 "group": "7693929b7efd0fc8"
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Terminal/Finder Hiding Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Terminal/Finder Hiding Files.md"
               }
             }
           },
@@ -202,17 +202,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d32be921ede83964",
+  "active": "861e80cdd611e6d1",
   "lastOpenFiles": [
-    "README.md",
-    "Git/Git Cheatsheet.md",
-    "Terminal/01_Index.md",
+    "Terminal/Finder Hiding Files.md",
     "Terminal/Saving a personnal script to run it from terminal.md",
     "Terminal/Killing a running server.md",
-    "Terminal/Finder Hiding Files.md",
+    "Terminal/Remove a directory to gitignore.md",
+    "Terminal/01_Index.md",
+    "README.md",
+    "Git/Git Cheatsheet.md",
     "Untitled.md",
     "2021-04-11.md",
-    "Terminal/01_Note Index.md",
-    "Terminal/Note Index.md"
+    "Terminal/01_Note Index.md"
   ]
 }

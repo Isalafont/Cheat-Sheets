@@ -1,1 +1,22 @@
-{"collapse-filter":true,"search":"","showTags":true,"showAttachments":false,"hideUnresolved":true,"showOrphans":true,"collapse-color-groups":false,"colorGroups":[],"collapse-display":false,"showArrow":false,"textFadeMultiplier":3,"nodeSizeMultiplier":0.689885880510181,"lineSizeMultiplier":1.32746699485343,"collapse-forces":false,"centerStrength":0.910942045200269,"repelStrength":6.0281942268964,"linkStrength":1,"linkDistance":300,"scale":0.3882579843272432,"close":true}
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 0.689885880510181,
+  "lineSizeMultiplier": 1.32746699485343,
+  "collapse-forces": false,
+  "centerStrength": 0.910942045200269,
+  "repelStrength": 6.0281942268964,
+  "linkStrength": 1,
+  "linkDistance": 300,
+  "scale": 0.3882579843272432,
+  "close": true
+}

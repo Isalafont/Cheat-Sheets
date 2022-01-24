@@ -1,0 +1,9 @@
+{
+  "translucency": true,
+  "cssTheme": "California Coast",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "personnal-tag"
+  ],
+  "baseFontSize": 16
+}

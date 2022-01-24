@@ -1,0 +1,10 @@
+{
+  "obsidianCss": true,
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true,
+  "foldIndent": true,
+  "defaultViewMode": "source",
+  "showLineNumber": false,
+  "tabSize": 2,
+  "showUnsupportedFiles": true
+}
