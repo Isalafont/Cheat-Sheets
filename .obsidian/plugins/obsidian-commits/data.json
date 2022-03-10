@@ -34,16 +34,26 @@
       "tags": 1,
       "links": 0
     },
-    "Terminal/Remove a directory to gitignore.md": {
+    "Terminal/Server HTML-JS.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Git/Remove a directory to gitignore.md": {
       "size": 0,
       "tags": 1,
+      "links": 0
+    },
+    "Git/Remove node_modules from Repo.md": {
+      "size": 0,
+      "tags": 0,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 20,
-      "Create": 10,
+      "Refactor": 28,
+      "Create": 13,
       "Link": 9,
       "Expand": 0
     }
@@ -61,15 +71,15 @@
       "8": 0,
       "9": 0,
       "10": 0,
-      "11": 0,
+      "11": 3,
       "12": 0,
       "13": 0,
       "14": 0,
       "15": 0,
-      "16": 0,
+      "16": 6,
       "17": 10,
       "18": 25,
-      "19": 4,
+      "19": 6,
       "20": 0,
       "21": 0,
       "22": 0,
@@ -78,10 +88,10 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 4,
+      "Mon": 9,
       "Tue": 0,
       "Wed": 0,
-      "Thu": 0,
+      "Thu": 6,
       "Fri": 0,
       "Sat": 0,
       "Sun": 35
@@ -100,7 +110,10 @@
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Terminal/Sans titre.md\"> Sans titre </a>"
+        "<a class=\"internal-link\" href=\"Terminal/Sans titre.md\"> Sans titre </a>",
+        "<a class=\"internal-link\" href=\"Git/Git_Cheatsheet.md\"> Git_Cheatsheet </a>",
+        "<a class=\"internal-link\" href=\"Sans titre.md\"> Sans titre </a>",
+        "<a class=\"internal-link\" href=\"Sans titre.md\"> Sans titre </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Shell/Useful Command shell.md\"> Useful Command shell </a>",
@@ -115,7 +128,14 @@
         "<a class=\"internal-link\" href=\"Git/Git Cheatsheet.md\"> Git Cheatsheet </a>",
         "<a class=\"internal-link\" href=\"Terminal/01_Index.md\"> 01_Index </a>",
         "<a class=\"internal-link\" href=\"Terminal/Finder Hiding Files.md\"> Finder Hiding Files </a>",
-        "<a class=\"internal-link\" href=\"Terminal/Remove a directory to gitignore.md\"> Remove a directory to gitignore </a>"
+        "<a class=\"internal-link\" href=\"Terminal/Remove a directory to gitignore.md\"> Remove a directory to gitignore </a>",
+        "<a class=\"internal-link\" href=\"Terminal/Sans titre.md\"> Sans titre </a>",
+        "<a class=\"internal-link\" href=\"Terminal/Server HTML-JS.md\"> Server HTML-JS </a>",
+        "<a class=\"internal-link\" href=\"Remove node_modules from Repo.md\"> Remove node_modules from Repo </a>",
+        "<a class=\"internal-link\" href=\"Git/Remove node_modules from Repo.md\"> Remove node_modules from Repo </a>",
+        "<a class=\"internal-link\" href=\"Terminal/Remove node_modules from Repo.md\"> Remove node_modules from Repo </a>",
+        "<a class=\"internal-link\" href=\"Git/Remove a directory to gitignore.md\"> Remove a directory to gitignore </a>",
+        "<a class=\"internal-link\" href=\"Git/Remove node_modules from Repo.md\"> Remove node_modules from Repo </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"Terminal/Killing a running server.md\"> Killing a running server </a>",
@@ -132,7 +152,8 @@
         "<a class=\"internal-link\" href=\"2021-04-11.md\"> 2021-04-11 </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Git/Git_Cheatsheet.md\"> Git_Cheatsheet </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"Terminal/Note Index.md\"> Note Index </a>",

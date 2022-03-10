@@ -8,44 +8,16 @@
         "type": "split",
         "children": [
           {
-            "id": "a5fec6b12ba01c32",
-            "type": "split",
+            "id": "bab713c427e77a19",
+            "type": "leaf",
             "dimension": 76.66666666666667,
-            "children": [
-              {
-                "id": "861e80cdd611e6d1",
-                "type": "leaf",
-                "dimension": 75.49668874172185,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Git/Git Cheatsheet.md",
-                    "mode": "preview"
-                  }
-                },
-                "group": "7693929b7efd0fc8"
-              },
-              {
-                "id": "d32be921ede83964",
-                "type": "leaf",
-                "dimension": 24.503311258278146,
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Git/Git Cheatsheet.md",
-                    "collapseAll": true,
-                    "extraContext": false,
-                    "sortOrder": "byCreatedTimeReverse",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": false
-                  }
-                },
-                "group": "7693929b7efd0fc8"
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Remove node_modules from Repo.md",
+                "mode": "preview"
               }
-            ],
-            "direction": "horizontal"
+            }
           },
           {
             "id": "e3bca87fe9910927",
@@ -68,10 +40,9 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Git/Git Cheatsheet.md"
+                    "file": "Git/Remove node_modules from Repo.md"
                   }
-                },
-                "group": "7693929b7efd0fc8"
+                }
               }
             ],
             "direction": "horizontal"
@@ -155,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git Cheatsheet.md",
+                "file": "Git/Remove node_modules from Repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git Cheatsheet.md"
+                "file": "Git/Remove node_modules from Repo.md"
               }
             }
           },
@@ -202,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "861e80cdd611e6d1",
+  "active": "bab713c427e77a19",
   "lastOpenFiles": [
-    "Git/Git Cheatsheet.md",
-    "Terminal/Remove a directory to gitignore.md",
-    "Terminal/Finder Hiding Files.md",
-    "Terminal/Saving a personnal script to run it from terminal.md",
-    "Terminal/Killing a running server.md",
-    "README.md",
+    "Git/Remove node_modules from Repo.md",
+    "Git/Remove a directory to gitignore.md",
+    "Terminal/Server HTML-JS.md",
     "Terminal/01_Index.md",
-    "Untitled.md",
-    "2021-04-11.md",
-    "Terminal/01_Note Index.md"
+    "Terminal/Killing a running server.md",
+    "Terminal/Saving a personnal script to run it from terminal.md",
+    "README.md",
+    "Git/Git Cheatsheet.md",
+    "Git/Git_Cheatsheet.md",
+    "Terminal/Finder Hiding Files.md"
   ]
 }

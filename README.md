@@ -6,6 +6,8 @@ I hope it could help you too.
 
 ## Git
 [[Git Cheatsheet]]
+[Git Cheatshee](./Git/Git Cheatsheet)
+
 
 ## Terminal 
 [[01_Index]]
