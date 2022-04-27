@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Remove node_modules from Repo.md",
+                "file": "Git/Git Cheatsheet.md",
                 "mode": "preview"
               }
             }
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Git/Remove node_modules from Repo.md"
+                    "file": "Git/Git Cheatsheet.md"
                   }
                 }
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Remove node_modules from Repo.md",
+                "file": "Git/Git Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Remove node_modules from Repo.md"
+                "file": "Git/Git Cheatsheet.md"
               }
             }
           },
@@ -175,14 +175,14 @@
   },
   "active": "bab713c427e77a19",
   "lastOpenFiles": [
-    "Git/Remove node_modules from Repo.md",
+    "Git/Git Cheatsheet.md",
     "Git/Remove a directory to gitignore.md",
+    "Git/Remove node_modules from Repo.md",
     "Terminal/Server HTML-JS.md",
     "Terminal/01_Index.md",
     "Terminal/Killing a running server.md",
     "Terminal/Saving a personnal script to run it from terminal.md",
     "README.md",
-    "Git/Git Cheatsheet.md",
     "Git/Git_Cheatsheet.md",
     "Terminal/Finder Hiding Files.md"
   ]
