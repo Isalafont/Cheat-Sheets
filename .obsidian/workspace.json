@@ -8,17 +8,36 @@
         "type": "split",
         "children": [
           {
-            "id": "bab713c427e77a19",
-            "type": "leaf",
+            "id": "872742185890f32a",
+            "type": "tabs",
             "dimension": 73.11827956989248,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terminal/Killing a running server.md",
-                "mode": "source",
-                "source": false
+            "children": [
+              {
+                "id": "be15d8236c759b75",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Git/Git Cheatsheet.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "bf01958f23da63ee",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GPG/GPG (standard PGP).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
             "id": "e3bca87fe9910927",
@@ -26,24 +45,36 @@
             "dimension": 26.881720430107524,
             "children": [
               {
-                "id": "da950b87eb590c20",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
-                }
+                "id": "27e2e42f63ede48f",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "da950b87eb590c20",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "pinned": true
+                    }
+                  }
+                ]
               },
               {
-                "id": "6d4bd641f94b769e",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "Terminal/Killing a running server.md"
+                "id": "c2ab4f48b36eaf6f",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "6d4bd641f94b769e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outline",
+                      "state": {
+                        "file": "GPG/GPG (standard PGP).md"
+                      }
+                    }
                   }
-                }
+                ]
               }
             ],
             "direction": "horizontal"
@@ -67,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -92,6 +125,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "76e616c38e81a668",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
@@ -111,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 372
   },
   "right": {
     "id": "1f2e826b19b879fa",
@@ -127,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal/Killing a running server.md",
+                "file": "GPG/GPG (standard PGP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminal/Killing a running server.md"
+                "file": "GPG/GPG (standard PGP).md"
               }
             }
           },
@@ -166,6 +207,18 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "5c211c69b7994b1f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ]
       }
@@ -174,17 +227,49 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bab713c427e77a19",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "148bfd9b0877803a",
   "lastOpenFiles": [
     "Git/Git Cheatsheet.md",
-    "Terminal/01_Index.md",
-    "Terminal/Server HTML-JS.md",
-    "Terminal/Logs.md",
-    "Git/Remove a directory to gitignore.md",
-    "Terminal/Killing a running server.md",
+    "GPG/GPG (standard PGP).md",
+    "GPG",
+    "Encriptage",
+    "Terminal/Encrypted a file with openssl.md",
     "Terminal/Docker CheatSheet.md",
+    "Terminal/Logs.md",
+    "Sidekiq/Testing Sidekiq Email.md",
+    "Sidekiq/Sidekiq-Redis.md",
+    "JsonB Tips/JsonB.md",
+    "Git/Remove node_modules from Repo.md",
+    "Git/Remove a directory to gitignore.md",
+    "Terminal/Tips Terminal Cmd.md",
+    "Media/Untitled.md",
+    "Capture d’écran 2021-04-20 à 13.48.36 1.png",
+    "Capture d’écran 2021-04-20 à 14.51.37.png",
+    "sidekiq.png",
+    "Media",
+    "Sidekiq",
+    "JsonB Tips",
+    "Terminal/Killing a running server.md",
+    "Terminal/01_Index.md",
+    "Capture d’écran 2024-02-28 à 13.52.23.png",
+    "Bon Commande T2.pdf",
+    "Capture d’écran 2022-05-17 à 13.40.05.png",
     "Terminal/Saving a personnal script to run it from terminal.md",
     "Terminal/Finder Hiding Files.md",
-    "Git/Remove node_modules from Repo.md"
+    "Terminal/Address ip.md",
+    "Terminal/Server HTML-JS.md"
   ]
 }

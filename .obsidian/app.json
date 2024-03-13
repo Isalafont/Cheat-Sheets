@@ -6,5 +6,7 @@
   "defaultViewMode": "source",
   "showLineNumber": false,
   "tabSize": 2,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "legacyEditor": false,
+  "livePreview": true
 }

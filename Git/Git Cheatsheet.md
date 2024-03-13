@@ -121,6 +121,42 @@ $ git add -p
 $ git stash
 ```
 
+Save a stash file with a name
+```shell
+$ git stash save <name>
+```
+
+List all the stash file
+```shell
+$ git stash list
+```
+Show the stash
+```shell
+$ git stash show [-u|--include-untracked|--only-untracked] [<diff-options>] [<stash>]
+```
+
+Drop the stash 
+```shell
+$ git stash drop [-q|--quiet] [<stash>]
+```
+
+Pop the stash
+```shell
+	$ git stash (pop | apply) [--index] [-q|--quiet] [<stash>]
+```
+
+Other commands 
+```shell
+$ git stash_ branch <branchname> [<stash>]
+$ git stash_ [push [-p|--patch] [-S|--staged] [-k|--[no-]keep-index] [-q|--quiet]
+	     [-u|--include-untracked] [-a|--all] [-m|--message <message>]
+	     [--pathspec-from-file=<file> [--pathspec-file-nul]]
+	     [--] [<pathspec>…​]]
+$ git stash_ clear
+$ git stash_ create [<message>]
+$ git stash_ store [-m|--message <message>] [-q|--quiet] <commit>
+```
+
 ---
 ### Pull working branch 
 
@@ -192,6 +228,7 @@ or
 $ git fetch origin
 $ gco <name of the branch>
 ```
+
 ### Git merge develop branch into feature branch
 
 ```bash
@@ -200,6 +237,44 @@ $ git pull origin <develop branch>
 $ gco <feature branch>
 $ git merge <develop branch>
 $ git push origin <feature branch>
+```
+
+### Git Rebase master into feature branch
+
+Pull last version of master on master branch 
+```shell
+$ gco master
+$ git pull origin master
+$ gco <feature branch>
+$ git rebase master
+$ git push --force-with-lease
+```
+
+#### Quand le Git Rebase merde
+```shell
+git checkout develop
+git pull origin develop
+git checkout -b API-2104/homepage-2
+git cherry-pick SHA1 SHA2 ... SHAN
+git branch -m API-2104/homepage API-2104/homepage-old
+git branch -m API-2104/homepage-2 API-2104/homepage
+git push --force-with-lease origin API-2104/homepage
+```
+
+## Cleaning a Branch
+- go to the master branch
+- delete branch we want to clean
+- recreate the branch with the exact same name (from repository github)
+- take the SHA number existing in the repository 
+  ex : SHA *3ea5f639a1879507b08b2ee480020e3517676de0* and cherry-pick the commits
+- git push --force origin the branch 
+
+```shell
+$ gco master
+$ git branch -D <name of the branch>
+$ gco -b <name of the branch>
+$ git cherry-pick 7a298ce30b7f8def555ba6d69c88ec6044ab4561
+$ git push --force origin <name of the branch>
 ```
 
 ---
@@ -237,11 +312,45 @@ $ git remote remove <name>
 
 ---
 
+#### Show git history
+```shell
+$ git logs
+```
+
+#### Find and show all git history
+Manage reflog information
+```shell
+$ git reflog
+```
+
+`git reflog show` accepts any of the options accepted by `git log`.
+
+If you have delete some commits with the `git reset --hard HEAD 1`  command and want to find the deleted commit, use this command:  
+```shell
+$ git reflog
+$ git sherry-pick {commit SHA}
+```
+
+--- 
+### Retrieve last branch 
+
+```shell
+$ gco -   
+```
+
+
 ### Delete a git repository 
 
 ```shell
 $ rm -rf .git
 ```
+
+
+### Git Prout
+
+Si tu veux aussi faire git add ., git commit, git push, en 1 prout ajoute ça dans ta config git👇  
+  
+prout = "!f() { git add -A && git commit -m \"$@\" && git push origin master; }; f"  
 
 --- 
 
@@ -250,4 +359,8 @@ $ rm -rf .git
 ```bash
 $ git --help
 ```
+
+
+### Changing a remote repository URL
+[changing a remote repository](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#changing-a-remote-repositorys-url)
 

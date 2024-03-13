@@ -6,7 +6,7 @@ I hope it could help you too.
 
 ## Git
 [[Git Cheatsheet]]
-[Git Cheatshee](./Git/Git Cheatsheet)
+[Git Cheatsheet](./Git/Git Cheatsheet)
 
 
 ## Terminal 
