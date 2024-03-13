@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GPG/GPG (standard PGP).md",
+                    "file": "README.md",
                     "mode": "source",
                     "source": false
                   }
@@ -70,7 +70,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "GPG/GPG (standard PGP).md"
+                        "file": "README.md"
                       }
                     }
                   }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPG/GPG (standard PGP).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPG/GPG (standard PGP).md"
+                "file": "README.md"
               }
             }
           },
@@ -240,10 +240,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "148bfd9b0877803a",
+  "active": "bf01958f23da63ee",
   "lastOpenFiles": [
+    "Terminal/01_Index.md",
+    "README.md",
     "Git/Git Cheatsheet.md",
+    "Capture d’écran 2024-02-28 à 13.52.23.png",
+    "Capture d’écran 2022-05-17 à 13.40.05.png",
+    "Capture d’écran 2021-04-20 à 14.51.37.png",
+    "Capture d’écran 2021-04-20 à 13.48.36 1.png",
     "GPG/GPG (standard PGP).md",
+    "Bon Commande T2.pdf",
     "GPG",
     "Encriptage",
     "Terminal/Encrypted a file with openssl.md",
@@ -256,17 +263,11 @@
     "Git/Remove a directory to gitignore.md",
     "Terminal/Tips Terminal Cmd.md",
     "Media/Untitled.md",
-    "Capture d’écran 2021-04-20 à 13.48.36 1.png",
-    "Capture d’écran 2021-04-20 à 14.51.37.png",
     "sidekiq.png",
     "Media",
     "Sidekiq",
     "JsonB Tips",
     "Terminal/Killing a running server.md",
-    "Terminal/01_Index.md",
-    "Capture d’écran 2024-02-28 à 13.52.23.png",
-    "Bon Commande T2.pdf",
-    "Capture d’écran 2022-05-17 à 13.40.05.png",
     "Terminal/Saving a personnal script to run it from terminal.md",
     "Terminal/Finder Hiding Files.md",
     "Terminal/Address ip.md",

@@ -7,7 +7,7 @@
     "README.md": {
       "size": 177,
       "tags": 0,
-      "links": 2
+      "links": 6
     },
     "Terminal/Saving a personnal script to run it from terminal.md": {
       "size": 2091,
@@ -99,7 +99,7 @@
     "/": {
       "Refactor": 36,
       "Create": 23,
-      "Link": 18,
+      "Link": 19,
       "Expand": 7
     }
   },
@@ -117,7 +117,7 @@
       "9": 0,
       "10": 3,
       "11": 5,
-      "12": 0,
+      "12": 1,
       "13": 5,
       "14": 11,
       "15": 4,
@@ -135,7 +135,7 @@
     "/": {
       "Mon": 24,
       "Tue": 9,
-      "Wed": 10,
+      "Wed": 11,
       "Thu": 6,
       "Fri": 0,
       "Sat": 0,
@@ -238,7 +238,8 @@
         "<a class=\"internal-link\" href=\"Tips Terminal Cmd.md\"> Tips Terminal Cmd </a>",
         "<a class=\"internal-link\" href=\"Terminal/01_Index.md\"> 01_Index </a>",
         "<a class=\"internal-link\" href=\"Sidekiq/Sidekiq-Redis.md\"> Sidekiq-Redis </a>",
-        "<a class=\"internal-link\" href=\"Sidekiq/Sidekiq-Redis.md\"> Sidekiq-Redis </a>"
+        "<a class=\"internal-link\" href=\"Sidekiq/Sidekiq-Redis.md\"> Sidekiq-Redis </a>",
+        "<a class=\"internal-link\" href=\"README.md\"> README </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

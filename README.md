@@ -6,8 +6,16 @@ I hope it could help you too.
 
 ## Git
 [[Git Cheatsheet]]
-[Git Cheatsheet](./Git/Git Cheatsheet)
-
 
 ## Terminal 
 [[01_Index]]
+
+## Jsonb
+[[JsonB]]
+
+## Sidekiq
+[[Sidekiq-Redis]]
+[[Testing Sidekiq Email]]
+
+## Cryptography
+[[GPG (standard PGP)]]
