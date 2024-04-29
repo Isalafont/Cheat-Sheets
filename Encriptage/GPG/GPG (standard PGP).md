@@ -68,4 +68,59 @@ $ export GPG_TTY=$(tty)
 ```
 
 
+### Gpg Agent
+Description. gpg-agent is **a daemon to manage secret (private) keys independently from any protocol**. It is used as a backend for gpg and gpgsm as well as for a couple of other utilities. This code should only be run once per user session to initially fire up the agent.
+
+```shell
+$ gpg-agent --deamon
+$ gpg-agent         
+
+gpg-agent[4843]: gpg-agent running and available
+```
+
+### To add Default configuration to ask for password:
+
+Open gpg-agent.conf in nano
+```shell
+~ nano ~/.gnupg/gpg-agent.conf
+
+```
+
+Add the following line : 
+```nano
+ default-cache-ttl 34560000 
+ max-cache-ttl 34560000
+ ```
+ 
+Then reload gpg-agent
+
+```shell
+ ~ gpg-connect-agent reloadagent /bye 
+
+OK
+```
+
+
+## Documentations 
+
 [GitHub doc](https://docs.github.com/fr/authentication/managing-commit-signature-verification/generating-a-new-gpg-key)
+[Oh no, I forgot my PGP private key’s passphrase](https://estebansastre.com/oh-no-i-forgot-my-private-keys-passphrase/)
+[Gpg how to revoke a key or user id](https://gpgtools.tenderapp.com/kb/gpg-keychain-faq/how-to-revoke-a-key-or-user-id#forgotten-password)
+
+
+### Revoke Certificate
+
+Since 2015 a revocation certificate is automatically created during key creation. Should you ever loose access to your secret key or forget your password, you can still revoke your key.
+
+The revocation certificates are stored on your mac:
+
+1. open new finder window  
+2. press SHIFT + CMD + G (**⇧⌘G**)  
+3. paste `~/.gnupg/openpgp-revocs.d` into the field
+
+This folder holds all revocation certificates which have been created. The file name consists of the last 16 digits from your fingerprint allowing you to learn which cert is for which key.
+
+==**Important:**== We recommended, to create a backup of all revocation certificates and store that in a secure location.
+
+### Store keychain in mac 
+https://gist.github.com/koshatul/2427643668d4e89c0086f297f9ed2130
