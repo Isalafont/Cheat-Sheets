@@ -364,3 +364,19 @@ $ git --help
 ### Changing a remote repository URL
 [changing a remote repository](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#changing-a-remote-repositorys-url)
 
+
+### Oh My Z.SH shortcut
+I hope this helps someone and please feel free to edit or improve. I'm not sure what the _fastest_ way is but this certainly simplifies my code commit process by using **"ohmyzsh" for Git**.
+
+## [https://ohmyz.sh/](https://ohmyz.sh/)
+
+- `git add .` is shortened to `ga .`
+- `git commit -m "message"` is shortened to `gc -m "message"`
+- `git push` is shortened to `gp`
+- `git fetch` is shortened to `gf`
+- `git pull origin master` is shortened to `ggl master`
+- `git push origin master` is shortened to `ggp master`
+- `git checkout -b` is shortened to `gcb`
+- `git merge` is shortened to `gm`
+- `git remote` is shortened to `gr`
+- `git status` is shortened to `gst`

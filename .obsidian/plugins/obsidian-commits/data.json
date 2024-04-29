@@ -7,7 +7,7 @@
     "README.md": {
       "size": 177,
       "tags": 0,
-      "links": 6
+      "links": 7
     },
     "Terminal/Saving a personnal script to run it from terminal.md": {
       "size": 2091,
@@ -20,7 +20,7 @@
       "links": 0
     },
     "Git/Git Cheatsheet.md": {
-      "size": 5898,
+      "size": 7386,
       "tags": 0,
       "links": 0
     },
@@ -89,7 +89,12 @@
       "tags": 3,
       "links": 4
     },
-    "GPG/GPG (standard PGP).md": {
+    "Encriptage/GPG/GPG (standard PGP).md": {
+      "size": 3271,
+      "tags": 0,
+      "links": 0
+    },
+    "Rspec/Configuration Rspec.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -97,10 +102,10 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 36,
-      "Create": 23,
-      "Link": 19,
-      "Expand": 7
+      "Refactor": 37,
+      "Create": 24,
+      "Link": 20,
+      "Expand": 11
     }
   },
   "dailyCommits": {
@@ -115,11 +120,11 @@
       "7": 0,
       "8": 0,
       "9": 0,
-      "10": 3,
-      "11": 5,
+      "10": 4,
+      "11": 6,
       "12": 1,
-      "13": 5,
-      "14": 11,
+      "13": 8,
+      "14": 13,
       "15": 4,
       "16": 12,
       "17": 13,
@@ -134,8 +139,8 @@
   "weeklyCommits": {
     "/": {
       "Mon": 24,
-      "Tue": 9,
-      "Wed": 11,
+      "Tue": 10,
+      "Wed": 17,
       "Thu": 6,
       "Fri": 0,
       "Sat": 0,
@@ -151,7 +156,11 @@
         "<a class=\"internal-link\" href=\"Terminal/Encrypted a file with openssl.md\"> Encrypted a file with openssl </a>",
         "<a class=\"internal-link\" href=\"JsonB Tips/JsonB.md\"> JsonB </a>",
         "<a class=\"internal-link\" href=\"Sidekiq/Sidekiq-Redis.md\"> Sidekiq-Redis </a>",
-        "<a class=\"internal-link\" href=\"Sidekiq/Testing Sidekiq Email.md\"> Testing Sidekiq Email </a>"
+        "<a class=\"internal-link\" href=\"Sidekiq/Testing Sidekiq Email.md\"> Testing Sidekiq Email </a>",
+        "<a class=\"internal-link\" href=\"GPG/GPG (standard PGP).md\"> GPG (standard PGP) </a>",
+        "<a class=\"internal-link\" href=\"GPG/GPG (standard PGP).md\"> GPG (standard PGP) </a>",
+        "<a class=\"internal-link\" href=\"Git/Git Cheatsheet.md\"> Git Cheatsheet </a>",
+        "<a class=\"internal-link\" href=\"Encriptage/GPG/GPG (standard PGP).md\"> GPG (standard PGP) </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Git/Useful Command shell.md\"> Useful Command shell </a>",
@@ -176,6 +185,7 @@
         "<a class=\"internal-link\" href=\"Sidekiq/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Sidekiq/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Media/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
@@ -204,7 +214,8 @@
         "<a class=\"internal-link\" href=\"Sidekiq/Testing Sidekiq Email.md\"> Testing Sidekiq Email </a>",
         "<a class=\"internal-link\" href=\"GPG (st.md\"> GPG (st </a>",
         "<a class=\"internal-link\" href=\"GPG (standard PGP).md\"> GPG (standard PGP) </a>",
-        "<a class=\"internal-link\" href=\"GPG/GPG (standard PGP).md\"> GPG (standard PGP) </a>"
+        "<a class=\"internal-link\" href=\"GPG/GPG (standard PGP).md\"> GPG (standard PGP) </a>",
+        "<a class=\"internal-link\" href=\"Encriptage/GPG/GPG (standard PGP).md\"> GPG (standard PGP) </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"Terminal/Killing a running server.md\"> Killing a running server </a>",
@@ -239,6 +250,7 @@
         "<a class=\"internal-link\" href=\"Terminal/01_Index.md\"> 01_Index </a>",
         "<a class=\"internal-link\" href=\"Sidekiq/Sidekiq-Redis.md\"> Sidekiq-Redis </a>",
         "<a class=\"internal-link\" href=\"Sidekiq/Sidekiq-Redis.md\"> Sidekiq-Redis </a>",
+        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>"
       ],
       "Removed Tags from": [],
