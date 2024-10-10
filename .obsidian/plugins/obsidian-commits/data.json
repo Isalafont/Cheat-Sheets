@@ -27,7 +27,7 @@
     "Terminal/01_Index.md": {
       "size": 0,
       "tags": 2,
-      "links": 10
+      "links": 11
     },
     "Terminal/Finder Hiding Files.md": {
       "size": 0,
@@ -90,11 +90,16 @@
       "links": 4
     },
     "Encriptage/GPG/GPG (standard PGP).md": {
-      "size": 3271,
+      "size": 4283,
       "tags": 0,
       "links": 0
     },
     "Rspec/Configuration Rspec.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Terminal/Find Machine name.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -103,9 +108,9 @@
   "commitTypes": {
     "/": {
       "Refactor": 37,
-      "Create": 24,
-      "Link": 20,
-      "Expand": 11
+      "Create": 25,
+      "Link": 21,
+      "Expand": 12
     }
   },
   "dailyCommits": {
@@ -119,12 +124,12 @@
       "6": 0,
       "7": 0,
       "8": 0,
-      "9": 0,
+      "9": 1,
       "10": 4,
       "11": 6,
       "12": 1,
       "13": 8,
-      "14": 13,
+      "14": 15,
       "15": 4,
       "16": 12,
       "17": 13,
@@ -140,8 +145,8 @@
     "/": {
       "Mon": 24,
       "Tue": 10,
-      "Wed": 17,
-      "Thu": 6,
+      "Wed": 19,
+      "Thu": 7,
       "Fri": 0,
       "Sat": 0,
       "Sun": 35
@@ -160,6 +165,7 @@
         "<a class=\"internal-link\" href=\"GPG/GPG (standard PGP).md\"> GPG (standard PGP) </a>",
         "<a class=\"internal-link\" href=\"GPG/GPG (standard PGP).md\"> GPG (standard PGP) </a>",
         "<a class=\"internal-link\" href=\"Git/Git Cheatsheet.md\"> Git Cheatsheet </a>",
+        "<a class=\"internal-link\" href=\"Encriptage/GPG/GPG (standard PGP).md\"> GPG (standard PGP) </a>",
         "<a class=\"internal-link\" href=\"Encriptage/GPG/GPG (standard PGP).md\"> GPG (standard PGP) </a>"
       ],
       "Created": [
@@ -186,7 +192,8 @@
         "<a class=\"internal-link\" href=\"Sidekiq/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Media/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Terminal/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Shell/Useful Command shell.md\"> Useful Command shell </a>",
@@ -251,7 +258,8 @@
         "<a class=\"internal-link\" href=\"Sidekiq/Sidekiq-Redis.md\"> Sidekiq-Redis </a>",
         "<a class=\"internal-link\" href=\"Sidekiq/Sidekiq-Redis.md\"> Sidekiq-Redis </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
-        "<a class=\"internal-link\" href=\"README.md\"> README </a>"
+        "<a class=\"internal-link\" href=\"README.md\"> README </a>",
+        "<a class=\"internal-link\" href=\"Terminal/01_Index.md\"> 01_Index </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

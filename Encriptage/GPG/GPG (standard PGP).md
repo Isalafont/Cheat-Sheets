@@ -47,6 +47,43 @@ $ expire
 command help to display helper
 
 
+### Change an expire date on gpg subkey
+
+```shell
+$ gpg --expert --edit-key  <PUBLIC KEY>
+```
+
+To select ssb => subkey 
+```shell
+$ key 1
+
+ssb* rsa4096/whatever
+     created: 2024-03-12  expired: 2024-09-08  usage: E   
+[ultimate] (1). First Name (name email) <user@email.fr>
+
+gpg> expire
+Changing expiration time for a subkey.
+Please specify how long the key should be valid.
+         0 = key does not expire
+      <n>  = key expires in n days
+      <n>w = key expires in n weeks
+      <n>m = key expires in n months
+      <n>y = key expires in n years
+Key is valid for? (0) 6m
+Key expires at Tue Mar 11 08:10:30 2025 CET
+Is this correct? (y/N) y
+
+save
+```
+
+Ne pas oublier de save avant de quitter sinon les changements ne sont pas pris en compte.
+
+##### To generate PGP public Key block to add to Github
+
+```shell
+gpg --armor --export  <PUBLIC KEY>  
+```
+
 ### Error message with gpg
 For this message error
 ```shell

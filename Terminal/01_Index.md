@@ -12,5 +12,7 @@
 [[Remove a directory to gitignore]]
 [[Server HTML-JS]]
 [[Tips Terminal Cmd]]
+[[Find Machine name]]
+
 
 

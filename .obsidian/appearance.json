@@ -1,7 +1,7 @@
 {
   "translucency": true,
-  "cssTheme": "California Coast",
-  "theme": "moonstone",
+  "cssTheme": "Catppuccin",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "personnal-tag"
   ],
